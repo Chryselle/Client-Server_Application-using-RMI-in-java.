@@ -1,0 +1,3 @@
+Create stubs and skeletons using rmic command by specifying implementation class 
+name, i.e. rmic Add 
+Type in rmic Add in the command prompt
